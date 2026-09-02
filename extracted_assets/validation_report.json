@@ -1,0 +1,16 @@
+{
+  "valid": true,
+  "checks": {
+    "slide_folder_count": 31,
+    "slide_manifest_count": 31,
+    "slide_preview_count": 31,
+    "all_original_files_exist": true,
+    "all_original_hashes_match": true,
+    "all_slide_manifests_valid_json": true,
+    "package_media_and_embeddings": 20,
+    "package_assets_accounted_for": 20,
+    "reconstructed_crop_files": 303,
+    "reconstructed_crop_hashes_match": true
+  },
+  "warnings": []
+}
